@@ -6,6 +6,7 @@
 * Learn the new syntax (ES6, ES7)
 * Learn atleast one framework (Angularjs, React, Vue)
                                       
+***
 
 #### Day 0: August 01, 2018
 
