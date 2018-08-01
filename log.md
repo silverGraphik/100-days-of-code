@@ -10,9 +10,9 @@
 
 #### Day 0: August 01, 2018
 
-<!--#### **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.-->
+#### **Today's Progress**: Working on the basic JavaScript function, variable, condition.
 
-<!--#### **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. -->
+#### **Thoughts:** I always struggle with Js in general, thought it was an undertakeable task but more i use it more i get confortable with it and more i can thought of the box, really the logic i get in school is so useless here.
 
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
