@@ -14,6 +14,8 @@
 
 **Thoughts:** I always struggle with Js in general, thought it was an undertakeable task but more i use it more i get confortable with it and more i can thought of the box, really the logic i get in school is so useless here.
 
+***
+
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
 
