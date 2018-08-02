@@ -16,6 +16,13 @@
 
 ***
 
+#### Day 1: August 02, 2018
+
+#### **Today's Progress**: Working on access json object into an html page with some interaction.
+
+**Thoughts:** At first this challenge was for a job position but i take too much time so i fail but still i really enjoy work on this challenge, got stuck few hour but when i finally got the solution and its worked its such a good feeling ;)
+***
+
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
 
