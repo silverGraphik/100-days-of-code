@@ -23,6 +23,15 @@
 **Thoughts:** At first this challenge was for a job position but i take too much time so i fail but still i really enjoy work on this challenge, got stuck few hour but when i finally got the solution and its worked its such a good feeling ;)
 ***
 
+***
+
+#### Day 2: August 03, 2018
+
+#### **Today's Progress**: After the json of yesterday back to the basic js by playing with function, string, condition, etc.
+
+**Thoughts:** In the begining and i mean begining of learn js i was always looking on google for the solution as fast as possible beceause js was so not my things and since i star this challenge i take on myself to complete the challenge by using as less as possible the solution of other people of course i still use the MDN documentation but event that i got surprise by see i can remember some method for complete my challenge i can't really wait to be on my 100 days for see where i will stand =)
+***
+
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
 
