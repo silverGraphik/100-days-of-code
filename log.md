@@ -32,6 +32,15 @@
 **Thoughts:** In the begining and i mean begining of learn js i was always looking on google for the solution as fast as possible beceause js was so not my things and since i star this challenge i take on myself to complete the challenge by using as less as possible the solution of other people of course i still use the MDN documentation but event that i got surprise by see i can remember some method for complete my challenge i can't really wait to be on my 100 days for see where i will stand =)
 ***
 
+***
+
+#### Day 3: August 04, 2018
+
+#### **Today's Progress**: Today still work on basic js challenge and start learning AJAX.
+
+**Thoughts:** Today i not get in the mood for study much too, so i just complete the hour and read introduction on AJAX and javascript OOP, that will probably be my focus on js ;)
+***
+
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
 
