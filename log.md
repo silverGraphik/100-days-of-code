@@ -41,6 +41,15 @@
 **Thoughts:** Today i not get in the mood for study much too, so i just complete the hour and read introduction on AJAX and javascript OOP, that will probably be my focus on js ;)
 ***
 
+***
+
+#### Day 4: August 05, 2018
+
+#### **Today's Progress**: Today still work on basic js.
+
+**Thoughts:** Today its sunday so i'm not in the mood for study much too but still i do my 1hour of code for complete the challenge and keep a rythm, usually i study more than one hour but today  i really not have the mood for that, but even whiteout mood its still important for me to keep doing the challenge everyday, beceause even if today its difficult the next day will be less difficult beceause i choose this day to force myself into it even if don't want ;)
+***
+
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
 
