@@ -59,6 +59,16 @@
 **Thoughts:** finally got finish the js exercice, those challenge was not much difficult but the repetition make them become boring and i'm glad for i finished them, now i will move to another js exercice, i really want to improve my js by practicing for the method i need to use come in my mind almost right away and for that only one solution practice, practice, practice...
 ***
 
+***
+
+#### Day 6: August 07, 2018
+
+#### **Today's Progress**: Complete some basic challenge and now switch on read documentation and tutorial for know more about method.
+
+**Thoughts:** Today i continue with some new challenge about the function and i surprise myself to cannot complete some challenge i clearly remember complete few days ago, don't really know why so i decided to stop the challenge by focusing on immprive my js vocabulary (read about new method) like every langage i learn the syntax but the logic and the vocabulary are two thing i need to focus on.
+Understand the logic of the people who decide to build js like that will make me more efficient in my own understanding of this langage... i think ;)
+***
+
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
 
