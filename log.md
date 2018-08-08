@@ -69,6 +69,15 @@
 Understand the logic of the people who decide to build js like that will make me more efficient in my own understanding of this langage... i think ;)
 ***
 
+***
+
+#### Day 7: August 08, 2018
+
+#### **Today's Progress**: Continue my reading on the Js doc find on w3school.
+
+**Thoughts:** the documentation on w3school is nice, easy and complete its a nice way to to know more about method and other js staff and for understand the logic of the lagngage ( i still not understnad this logic) still have 93 more days to cover i can't wait to see my improvement and i think around every 20 days of challenge i will build an challenge to check my current skills and share it on codepen and other social network.
+***
+
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
 
