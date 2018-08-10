@@ -87,6 +87,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** Interesting for learn good practice for build script in JS i will definitely use it until i can master js enough and i think even after its still could be useful for the dev part.
 ***
 
+***
+
+#### Day 9: August 10, 2018
+
+#### **Today's Progress**: Still read the documentation now start the object and json.
+
+**Thoughts:** So few month ago i discover the object in js and json and i was so amaze by the possiblities its can give, and now i start read about it and i wonder what can i do with it ? where is the limit ? i don't know and i'm still a newbie in js but i want try understand deep js and object seems to be a good way to achieve it when i was reading about object and its say array is an object and every object is an from a prototype object its make me see js with a new look.
+***
+
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
 
