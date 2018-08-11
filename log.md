@@ -96,6 +96,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** So few month ago i discover the object in js and json and i was so amaze by the possiblities its can give, and now i start read about it and i wonder what can i do with it ? where is the limit ? i don't know and i'm still a newbie in js but i want try understand deep js and object seems to be a good way to achieve it when i was reading about object and its say array is an object and every object is an from a prototype object its make me see js with a new look.
 ***
 
+***
+
+#### Day 10: August 11, 2018
+
+#### **Today's Progress**: Build a simple slider for a friend and get stuck beceause of the script get declare in the head.
+
+**Thoughts:** So today i took 10 min for build a simple slider with js and i got stuck beceuase of a stupid thing... i declare my scrip src on the head of the html and so i get stuck 2 hour try to figure why it was not working until i finally remember the stupidity about the js load first before the html making all my variable empty when the html load and of course got the result of a beautiful white page, so i look for write a condition who will check if the html is load or not and its working but still its not have the same comportement of when the js file get declare before the closing body tag, its been something i need to look at and i understand why developer declare js file before the closing body, its could be great if in the futur Ecma try to find an easy solution for fix that.
+***
+
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
 
