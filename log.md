@@ -105,6 +105,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** So today i took 10 min for build a simple slider with js and i got stuck beceuase of a stupid thing... i declare my scrip src on the head of the html and so i get stuck 2 hour try to figure why it was not working until i finally remember the stupidity about the js load first before the html making all my variable empty when the html load and of course got the result of a beautiful white page, so i look for write a condition who will check if the html is load or not and its working but still its not have the same comportement of when the js file get declare before the closing body tag, its been something i need to look at and i understand why developer declare js file before the closing body, its could be great if in the futur Ecma try to find an easy solution for fix that.
 ***
 
+***
+
+#### Day 11: August 12, 2018
+
+#### **Today's Progress**: Continue my lecture on the js documentation on w3school website.
+
+**Thoughts:** I still have alot to cover on the documentation i read it all and i know some people think its quite useless beceause when you encounter en problem so you can go check it but still read this documentation is really helpfull first i can understand js more better than when i start and second i think about what i read and about how i can use those staff i learn, honnestly i find that really helpfull its give me a better understanding of the hoisting and about some staff like the HTMLCollection yesterday when i build my slider i encounter that and i thought it was an object so i try access it by the property but not work so i try access it like an array but still i could not (probabely beceause my file was declare in the head html) and today after read the part of the dom i understand about even if its look like an array htmlcollection is not an array, so really i think every people who want play with js should take few days for read all the doc.
+***
+
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
 
