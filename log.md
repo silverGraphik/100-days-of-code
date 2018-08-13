@@ -114,6 +114,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** I still have alot to cover on the documentation i read it all and i know some people think its quite useless beceause when you encounter en problem so you can go check it but still read this documentation is really helpfull first i can understand js more better than when i start and second i think about what i read and about how i can use those staff i learn, honnestly i find that really helpfull its give me a better understanding of the hoisting and about some staff like the HTMLCollection yesterday when i build my slider i encounter that and i thought it was an object so i try access it by the property but not work so i try access it like an array but still i could not (probabely beceause my file was declare in the head html) and today after read the part of the dom i understand about even if its look like an array htmlcollection is not an array, so really i think every people who want play with js should take few days for read all the doc.
 ***
 
+***
+
+#### Day 12: August 13, 2018
+
+#### **Today's Progress**: Finish to read the documentation now i start th ecomplete referance of js.
+
+**Thoughts:** Finish my reading of the documentation now i start read the complete referance interesting too like that i can know method of js even if i will not remember all i will be able to have a better understanding of the possibility.
+***
+
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
 
