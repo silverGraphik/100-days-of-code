@@ -123,6 +123,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** Finish my reading of the documentation now i start read the complete referance interesting too like that i can know method of js even if i will not remember all i will be able to have a better understanding of the possibility.
 ***
 
+***
+
+#### Day 13: August 14, 2018
+
+#### **Today's Progress**: Still reading the referance of js will finish it in 2/3days.
+
+**Thoughts:** More i read about js, more i love it ;).
+***
+
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
 
