@@ -127,7 +127,16 @@ Understand the logic of the people who decide to build js like that will make me
 
 #### Day 13: August 14, 2018
 
-#### **Today's Progress**: Still reading the referance of js will finish it in 2/3days.
+#### **Today's Progress**: Still read the referance of js will finish it in 2/3days.
+
+**Thoughts:** More i read about js, more i love it ;).
+***
+
+***
+
+#### Day 14: August 15, 2018
+
+#### **Today's Progress**: Almost finish read the referance now i look for some exercice to do.
 
 **Thoughts:** More i read about js, more i love it ;).
 ***
