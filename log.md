@@ -141,6 +141,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** More i read about js, more i love it ;).
 ***
 
+***
+
+#### Day 15: August 16, 2018
+
+#### **Today's Progress**: Continue to read the referance on js almost finish it and start learn the ES6 syntax.
+
+**Thoughts:** Since i start this challenge and read the referance of js i was wonder whats next ? what i'm going to do after finish read it ? its not beceause i read it all i can call myself an advance js dev, so of course i looked for ssome challenge and i find some but i find them easy and basic i want some staff more concrete until i finally find the javascript30 its been 30 video with 30 challenge in js and some look cool like build a drum machine or a game and its this kind of challenge i look for those its will took me time to build and understnad how its work, real exemple.
+***
+
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
 
