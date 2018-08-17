@@ -150,6 +150,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** Since i start this challenge and read the referance of js i was wonder whats next ? what i'm going to do after finish read it ? its not beceause i read it all i can call myself an advance js dev, so of course i looked for ssome challenge and i find some but i find them easy and basic i want some staff more concrete until i finally find the javascript30 its been 30 video with 30 challenge in js and some look cool like build a drum machine or a game and its this kind of challenge i look for those its will took me time to build and understnad how its work, real exemple.
 ***
 
+***
+
+#### Day 16: August 17, 2018
+
+#### **Today's Progress**: Finish to read the complete js referance (just left some html) and watch some video on udemy about the ES6 and the destructuring array and object.
+
+**Thoughts:** No thought fot today (my love for js get deeper).
+***
+
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
 
