@@ -168,6 +168,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** ES6 or how to reduce 200 line of code to 150 line ;) with arrow function, destructuring array, for of and co, my thought about that its really usefull but i think right now its make js become for me more abstract so i apply those change but before really moove on full ES6 syntax i will continue to pracrtice and get confortable with my  current js ;).
 ***
 
+***
+
+#### Day 18: August 19, 2018
+
+#### **Today's Progress**: apply ES6 class to my snake game code.
+
+**Thoughts:** Today i just continue on the update of my snake game by aplpying the ES6 class to the code i already made.
+***
+
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
 
