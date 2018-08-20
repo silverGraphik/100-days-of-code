@@ -177,6 +177,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** Today i just continue on the update of my snake game by aplpying the ES6 class to the code i already made.
 ***
 
+***
+
+#### Day 19: August 20, 2018
+
+#### **Today's Progress**: Start a challenge who's goal its to add on an html file the content of an json file but i got stuck in the very begining of it !!!!! include the content of the json file into an array in javascript every solution i try as failed so now i ask some enligthment on some forum.
+
+**Thoughts:** When the last time i get call with the recruiter about javascript i state my current lvl was midlevel and my theorical knowledge of js is on that level that i'm sure but the failure to success the simple task of access by my own to json file put me down and give me a clear idea of where i stand right now !!!! i cannot pretend be an javascript developper i have not the level and i'm really far from reach thats point, i need to practice, practice and practice and most important to stop try to make too much that in mind after this challenge i will change completely my website for update it, my goal was to be fullstack developper in june 2019 but now i know i will not be, i need practice, i need improve i don't want moove on from js until i can really master it.
+***
+
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
 
