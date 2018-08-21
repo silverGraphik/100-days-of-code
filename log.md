@@ -186,6 +186,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** When the last time i get call with the recruiter about javascript i state my current lvl was midlevel and my theorical knowledge of js is on that level that i'm sure but the failure to success the simple task of access by my own to json file put me down and give me a clear idea of where i stand right now !!!! i cannot pretend be an javascript developper i have not the level and i'm really far from reach thats point, i need to practice, practice and practice and most important to stop try to make too much that in mind after this challenge i will change completely my website for update it, my goal was to be fullstack developper in june 2019 but now i know i will not be, i need practice, i need improve i don't want moove on from js until i can really master it.
 ***
 
+***
+
+#### Day 20: August 21, 2018
+
+#### **Today's Progress**: I finally complete the challenge, really i'm pride of myself i was not thinking i will succeed it by myself beceause even if i try this challenge i knew it was not a challenge of my level.
+
+**Thoughts:** this success after the failure of last night is really rewarding, its make me really like js those challenge who make me stuck and force me to think by a new way to find a solution who's work :).
+***
+
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
 
