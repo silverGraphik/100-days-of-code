@@ -195,6 +195,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** this success after the failure of last night is really rewarding, its make me really like js those challenge who make me stuck and force me to think by a new way to find a solution who's work :).
 ***
 
+***
+
+#### Day 21: August 22, 2018
+
+#### **Today's Progress**: Finish to learn the new syntax ES6 and 7 now i focus on the DOM.
+
+**Thoughts:** I almost complete the first part of my challenge 30 days of read theory about javascript, i complete the new syntax and the basic now i focus on the dom really i love js more and more everyday ;).
+***
+
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
 
