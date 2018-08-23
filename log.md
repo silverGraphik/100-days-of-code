@@ -204,6 +204,16 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** I almost complete the first part of my challenge 30 days of read theory about javascript, i complete the new syntax and the basic now i focus on the dom really i love js more and more everyday ;).
 ***
 
+***
+
+#### Day 22: August 23, 2018
+
+#### **Today's Progress**: Still focus on Dom and on ajax request.
+
+**Thoughts:** First time when i learn ajax its look so difficult and messy but the instructor who i follow the courses now make it really easy show the process step by step and now whats was looked difficult at first still look difficult but not same as before.
+***
+
+
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
 
