@@ -214,6 +214,16 @@ Understand the logic of the people who decide to build js like that will make me
 ***
 
 
+***
+
+#### Day 23: August 24, 2018
+
+#### **Today's Progress**: Almost finish learn the dom.
+
+**Thoughts:** i am at the last part of my reading about js documentation and now i watch video of an instructor who make js look so much more easy start tomorrow i will do only code :) finally.
+***
+
+
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
 
