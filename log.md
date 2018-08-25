@@ -223,6 +223,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** i am at the last part of my reading about js documentation and now i watch video of an instructor who make js look so much more easy start tomorrow i will do only code :) finally.
 ***
 
+***
+
+#### Day 24: August 25, 2018
+
+#### **Today's Progress**: Today i start making challenge and i build a bucket list with the google map API.
+
+**Thoughts:** When i start learn javascript with the same intructor i got to a challenge who was to build a snake game at that time it looked so hard and difficult i just copy and not understand half of what i see on video but today i complete the challenge of build a bucket list from scratch and of course i still copy but at many time i surprise myself to continue to write code by myself when the teacher was loosing himsel ;) so i really make a good improvement and i can't wait to see where i will stand in 76 days, in the end i will back on this bucket list i want to add some staff exemple the user add his dream by complete a form or by put a markup on google map.
+***
+
 
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
