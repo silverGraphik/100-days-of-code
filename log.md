@@ -241,6 +241,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** All of those framework look good and are usefull i understand they all do the same staff the difference s in the performance, speed and weight of file but i think i will choose to focus on angular, since the first time i discover it i really fall in love with this framework, of course for that i will have to learn typescript but first thing first, i need to master js and after i will start with those amazing framework.
 ***
 
+***
+
+#### Day 26: August 27, 2018
+
+#### **Today's Progress**: I start code js app with the js30 challenge and i complete 4 challenge unstead of 1.
+
+**Thoughts:** So i start a ne challenge javascript30 a challenge who require to complete 1 coding js challlege everyday for 30 days but really the challenge are not much difficult so unstead of complete 1 i complete 4 of them and really after complete that i will start work on some custom js app i want practice by complete something from scratch.
+***
+
 
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
