@@ -250,6 +250,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** So i start a ne challenge javascript30 a challenge who require to complete 1 coding js challlege everyday for 30 days but really the challenge are not much difficult so unstead of complete 1 i complete 4 of them and really after complete that i will start work on some custom js app i want practice by complete something from scratch.
 ***
 
+***
+
+#### Day 27: August 28, 2018
+
+#### **Today's Progress**: Today i build a panel of picture on slider and i improve the final result vs the initial.
+
+**Thoughts:** Took 2 hour for improve a panel tutorial i find for its do everything i want on it initially the panel open when you click on it and close when you click a second time but i want for me the result be the panel open when click on it close when i click again on it and close when i click on the next panel and open this second panel at the same time, its took me around 2hour of try for finally got the right solution.
+***
+
 
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
