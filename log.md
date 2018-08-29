@@ -259,6 +259,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** Took 2 hour for improve a panel tutorial i find for its do everything i want on it initially the panel open when you click on it and close when you click a second time but i want for me the result be the panel open when click on it close when i click again on it and close when i click on the next panel and open this second panel at the same time, its took me around 2hour of try for finally got the right solution.
 ***
 
+***
+
+#### Day 28: August 29, 2018
+
+#### **Today's Progress**: Build a video player, play with the dev tools and the canvas and build a checkbock list with shit handle.
+
+**Thoughts:** Continue on build staff with js i work more than what the challenge need beceause i want progress, improve and most important most of the staff i build today was new but not much difficult, what was really difficult and i already know about i must back on it its the custom video player its have a few new js staff i learn and i got stuck a few time on it for exemple my forEach do not work on a variable but for the instructor it was working got me stuck and upset until i think fuckoff i will do my way and i got it in the end not much difficult when i build it with my own logic than when i followed the instructor logic ;).
+***
+
 
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
