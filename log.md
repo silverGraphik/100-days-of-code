@@ -268,6 +268,17 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** Continue on build staff with js i work more than what the challenge need beceause i want progress, improve and most important most of the staff i build today was new but not much difficult, what was really difficult and i already know about i must back on it its the custom video player its have a few new js staff i learn and i got stuck a few time on it for exemple my forEach do not work on a variable but for the instructor it was working got me stuck and upset until i think fuckoff i will do my way and i got it in the end not much difficult when i build it with my own logic than when i followed the instructor logic ;).
 ***
 
+***
+
+#### Day 29: August 30, 2018
+
+#### **Today's Progress**: Play with localstorage in js.
+
+**Thoughts:** Today i build some new staff againbut the most important its play with localstorage learn how its work and its really interesting i willl come back on the app i done today for make some improvement.
+***
+
+
+
 
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
 
