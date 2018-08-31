@@ -277,6 +277,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** Today i build some new staff againbut the most important its play with localstorage learn how its work and its really interesting i willl come back on the app i done today for make some improvement.
 ***
 
+***
+
+#### Day 30: August 31, 2018
+
+#### **Today's Progress**: Back on the localstorage challenge i complete yesterday and complete some modification and play with the css with js.
+
+**Thoughts:** I love JS :).
+***
+
 
 
 
