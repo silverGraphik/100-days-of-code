@@ -286,6 +286,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** I love JS :).
 ***
 
+***
+
+#### Day 31: September 01, 2018
+
+#### **Today's Progress**: I build an app who allow me to access my webcam and change the value of the frame or take some screenshot and download it, i need to improve it and look with new syntax beceause the localstream will be delete from navigator soon so its been obsolete to focus on that syntax but still i manage it and its the first step to success ;).
+
+**Thoughts:** I love JS :).
+***
+
 
 
 
