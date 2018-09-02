@@ -295,6 +295,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** I love JS :).
 ***
 
+***
+
+#### Day 32: September 02, 2018
+
+#### **Today's Progress**: build sticky bar and stripe navigation using javascript and coordonate of the HTML element.
+
+**Thoughts:** I love JS :).
+***
+
 
 
 
