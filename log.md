@@ -304,6 +304,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** I love JS :).
 ***
 
+***
+
+#### Day 33: September 03, 2018
+
+#### **Today's Progress**: Finish the javascript30 challenge.
+
+**Thoughts:** I build many staff and really i got a all new vision of js and possibilities its really just limited by my imagination so start tomorrow i will build some personnal js app for practice until days 50 after i will see if i switch to react framework or angular and so typescript first.
+***
+
 
 
 
