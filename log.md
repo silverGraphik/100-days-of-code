@@ -313,6 +313,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** I build many staff and really i got a all new vision of js and possibilities its really just limited by my imagination so start tomorrow i will build some personnal js app for practice until days 50 after i will see if i switch to react framework or angular and so typescript first.
 ***
 
+***
+
+#### Day 34: September 04, 2018
+
+#### **Today's Progress**: Start to build my own personnal js project a space invaders game.
+
+**Thoughts:** Today i jsut start build the project and i got stuck on the display of the aliens invaders i want display them by using a js function but so far i can display only one of it even after my loops i could simply put the aliens inside the HTML but i want use js for complete all the challenge so i will keep up and look for a solution.
+***
+
 
 
 
