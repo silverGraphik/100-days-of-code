@@ -322,6 +322,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** Today i jsut start build the project and i got stuck on the display of the aliens invaders i want display them by using a js function but so far i can display only one of it even after my loops i could simply put the aliens inside the HTML but i want use js for complete all the challenge so i will keep up and look for a solution.
 ***
 
+***
+
+#### Day 35: September 05, 2018
+
+#### **Today's Progress**: Progress on my space invaders game i build the ship and display it and even start build one function for control it but i use the keydown event for that and i just see about that event not let me use 2key in the same times i can't move and shoot in the same time i can shoot or move but not boove of course i want my ship shoot when the user press the key not something automic.
+
+**Thoughts:** I love JS.
+***
+
 
 
 
