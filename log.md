@@ -331,6 +331,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** I love JS.
 ***
 
+***
+
+#### Day 36: September 06, 2018
+
+#### **Today's Progress**: Today i work a lot and i finally  find the solution for let the user press manuy key in the same time for him or her can shoot and moove the ship in the same time now i will build the laser and the way its can be display i already try something who is interesting but cannot work in the way i want it.
+
+**Thoughts:** I love JS.
+***
+
 
 
 
