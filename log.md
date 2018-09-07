@@ -340,6 +340,16 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** I love JS.
 ***
 
+***
+
+#### Day 37: September 07, 2018
+
+#### **Today's Progress**: Still working on the ship but i complete some huge improvement on it and i almost complete the laser, i finally succeed to display it like i want and now all i need its to set every time a laser is fire to be at the laft position of where the ship was at this moment, i have some clue on the solution but untested so far so wait and see but after that all i need its to display my invaders and animate them, make the invaders can be destroy by the laser and the game will be complete the rest is just decoration (stat, life, highscore).
+
+**Thoughts:** I love JS.
+***
+
+
 
 
 
