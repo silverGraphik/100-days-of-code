@@ -349,6 +349,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** I love JS.
 ***
 
+***
+
+#### Day 38: September 08, 2018
+
+#### **Today's Progress**: Working on a Css template i code with just a few JS animation so today i not code much js so i will have to catch up that later but rally its not a problem much too beceause usually i study more than one hour everyday but still i fail to code minimum 1 hour of JS today so i will catch it up later ;)
+
+**Thoughts:** I love JS.
+***
+
 
 
 
