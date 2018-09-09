@@ -358,6 +358,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** I love JS.
 ***
 
+***
+
+#### Day 39: September 09, 2018
+
+#### **Today's Progress**: Finish my side project and today i made some JS in it i copy the google material design for the form, my opinion about it, it was so ease in comparison to how hard i get to do the same staff in the past.
+
+**Thoughts:** I love JS.
+***
+
 
 
 
