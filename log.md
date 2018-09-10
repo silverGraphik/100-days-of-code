@@ -367,6 +367,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** I love JS.
 ***
 
+***
+
+#### Day 40: September 10, 2018
+
+#### **Today's Progress**: Back on my space invaders project and still stuck on it i think i know what is the solution i can use for fix it the object but i do not understand the object good enough for build by myself a full game so back on study object and typescript.
+
+**Thoughts:** I love JS.
+***
+
 
 
 
