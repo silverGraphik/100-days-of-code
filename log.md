@@ -376,6 +376,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** I love JS.
 ***
 
+***
+
+#### Day 41: September 11, 2018
+
+#### **Today's Progress**: I finally succed to create, animate and destroy the laser as i want it, i delete all my previous try and start on clean sheet and i succeed to make it by building an object, still need some improvement the setinterval i use is not much smooth so i will back on it for some improvement later, next step colision with some invaders i will set directly in the html until i complete this step the step after will be to display those invaders only with js and the last will be to increase the score, gameover, reset of the game.
+
+**Thoughts:** I love JS.
+***
+
 
 
 
