@@ -387,11 +387,20 @@ Understand the logic of the people who decide to build js like that will make me
 
 ***
 
-#### Day 42: September 1, 2018
+#### Day 42: September 12, 2018
 
 #### **Today's Progress**: Still working on the space invaders game, finish on build the ship the current step is to build the invaders i already build the object and his displaying method next i must display all the 8 invaders line.
 
 **Thoughts:** I love JS.
+***
+
+***
+
+#### Day 43: September 13, 2018
+
+#### **Today's Progress**: Step of display the invaders are done next be to animate them and make the colision between laser and invaders.
+
+**Thoughts:** display the invaders was a more easy steps than iinitially thought it would be, i try to build an animation on js but right now the animation does not work as expected.
 ***
 
 
