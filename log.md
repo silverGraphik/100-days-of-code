@@ -403,6 +403,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** display the invaders was a more easy steps than iinitially thought it would be, i try to build an animation on js but right now the animation does not work as expected.
 ***
 
+***
+
+#### Day 44: September 14, 2018
+
+#### **Today's Progress**: Still working on the same staff from day 43.
+
+**Thoughts:** ....
+***
+
 
 
 
