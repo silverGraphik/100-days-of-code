@@ -412,6 +412,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** ....
 ***
 
+***
+
+#### Day 45: September 15, 2018
+
+#### **Today's Progress**: Still stuck on the animation of the invaders i build the animation with setInterval but everytime its nots work as i want its work and right now i don't know what solution i can use, tomorrow i will try the requestAnimationFrame and see if i can do better than with the setinterval.
+
+**Thoughts:** ....
+***
+
 
 
 
