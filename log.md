@@ -421,6 +421,14 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** ....
 ***
 
+***
+
+#### Day 46 & 47: September 16 & 17, 2018
+
+#### **Today's Progress**: Working on my animation find a working solution will complete and finish it tomorrow.
+
+**Thoughts:** ....
+***
 
 
 
