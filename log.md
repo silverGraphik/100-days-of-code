@@ -430,6 +430,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** ....
 ***
 
+***
+
+#### Day 48: September 18, 2018
+
+#### **Today's Progress**: Finally finish my animation i work half of the time i work on the space invaders so far just on the animation of the invader but its finish the rest now its make the colision between the laser and the invader delete the element hit by the laser and build the gameover, win condition and a score, i have 2 days for complete those step its unlikely but still even if i have delay on my initial schedule i'm still pride of myself and of my improvement in js.
+
+**Thoughts:** ....
+***
+
 
 
 
