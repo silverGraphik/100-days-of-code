@@ -439,6 +439,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** ....
 ***
 
+***
+
+#### Day 49 to 52: September 19, 20, 21, 22, 2018
+
+#### **Today's Progress**: Four days i spend the last 3 days to work on the space invaders and the colision but got stuck and can't find the solution by myself right now so i take a break from it and will start on new staff and right now typescript its my new staff to learn for go to angular next
+
+**Thoughts:** ....
+***
+
 
 
 
