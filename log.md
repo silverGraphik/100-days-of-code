@@ -452,9 +452,18 @@ Understand the logic of the people who decide to build js like that will make me
 
 #### Day 53: September 23, 2018
 
-#### **Today's Progress**: Start leanr Typescript for after learn Angular
+#### **Today's Progress**: Start learn Typescript for after learn Angular
 
 **Thoughts:** It's been a while since i want to learn Angular but i knew before start learn it i need to pass threw some essential step, Improve my JS skills, learn and develop only with the ES6/7 syntax learn dev tools for compatibility like webpack and babel and after build something allow me to have a vision of my current level, and my level is its not perfect but i understand and master the knowledge enough for moove the the current step leanr TypeScript i will work on it around 1 or 2 week and after start angular, finally i start that 4 month ago i fall in love of this framework when i see it ;)
+***
+
+***
+
+#### Day 54,55: September 24,25, 2018
+
+#### **Today's Progress**: Continue to Typescript and instal a VM on my computer withh Ubuntu
+
+**Thoughts:** Still read on the typescript documentation and test what i rade so far typescript look for me like scss for css, like a better way to make js and its look fun but the class is quit difficult mostly beceause i not master the class in js so of course on typescript cant look easy but its going to be something i will back on it beceause its really helpfull, for the ubuntu i stat beceause i want to know about the environment and learn to use it for get ready if need for a work in an agency ;)
 ***
 
 
