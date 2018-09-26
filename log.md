@@ -466,6 +466,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** Still read on the typescript documentation and test what i rade so far typescript look for me like scss for css, like a better way to make js and its look fun but the class is quit difficult mostly beceause i not master the class in js so of course on typescript cant look easy but its going to be something i will back on it beceause its really helpfull, for the ubuntu i stat beceause i want to know about the environment and learn to use it for get ready if need for a work in an agency ;)
 ***
 
+***
+
+#### Day 56: September 26, 2018
+
+#### **Today's Progress**: Continue to read Typescript documentation
+
+**Thoughts:** 
+***
+
 
 
 
