@@ -475,6 +475,14 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** 
 ***
 
+***
+
+#### Day 57 to 62: September 26 to October 02, 2018
+
+#### **Today's Progress**: Finish on the typescript basic and now start on the angular.
+
+**Thoughts:** Since the first time i saw angular in action i fall in love with it and work on my js until i can reach a level of comprehension enough for start it and i finally start learn it i'm just on the basic but its already so amazing =D
+***
 
 
 
