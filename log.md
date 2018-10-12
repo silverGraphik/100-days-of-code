@@ -484,6 +484,15 @@ Understand the logic of the people who decide to build js like that will make me
 **Thoughts:** Since the first time i saw angular in action i fall in love with it and work on my js until i can reach a level of comprehension enough for start it and i finally start learn it i'm just on the basic but its already so amazing =D
 ***
 
+***
+
+#### Day 63 to 72: October 03 to 12, 2018
+
+#### **Today's Progress**: Still learning Angular, there is a lot to cover and i really am in the begining level.
+
+**Thoughts:** What i fool i was few month ago when i thought i can master Angular in less than a month, after start it i realise i will have to work many month before becoming a real hero with thhis framework but its the goal i set to myself and my R2 of this challenge will focus only on Angular.
+***
+
 
 
 <!--#### **Link to work:** [Calculator App](http://www.example.com)-->
